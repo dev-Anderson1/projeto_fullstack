@@ -17,7 +17,7 @@ const deleteUser = (id) => {
         </li>
       ))}
       <li>
-        <h1>Página de Deletar Peter</h1><Link href="/user/">Ir para página do Peter</Link>
+        <h1>Página de Deletar</h1><Link href="/user/">Voltar</Link>
       </li>
     </ul>
   );

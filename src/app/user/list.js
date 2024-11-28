@@ -19,7 +19,7 @@ import { useEffect, useState } from 'react';
                <li key={user.id}>{user.name}</li>
              ))}
              <li>
-              <h1>Página de Listar Peter</h1><Link href="/user/">Ir para página do Peter</Link>
+              <h1>Página de Listar</h1><Link href="/user/">Voltar</Link>
              </li>
            </ul>
          </div>

@@ -26,7 +26,7 @@ const CreateUser = () => {
         <button type="submit">Criar Usuário</button>
         </form>
         <li>
-          <h1>Página de Criar Peter</h1><Link href="../">Ir para página do Peter</Link>
+          <h1>Página de Criar</h1><Link href="../">Voltar</Link>
         </li>
       </ui>
     </div>

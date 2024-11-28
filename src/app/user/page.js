@@ -5,7 +5,7 @@ import "../globals.css";
 export default function Menu() {
   return (
     <nav>
-      <Link href="/create">Criar Peter</Link>
+      <Link href="/create">Criar Usuário</Link>
     </nav>
   );
 }

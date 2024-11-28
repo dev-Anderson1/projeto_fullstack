@@ -5,14 +5,14 @@ import ".//globals.css";
 export default function Home() {
   return (
     <div>
-      <h1>Página do Peter</h1>
+      <h1>Página do Principal</h1>
       <li>
-        <Link href="/user">Usuários do Peter</Link>
+        <Link href="/user">Usuários</Link>
       </li>
       <li>
-        <Link href="/task">Tarefas do Peter</Link>
+        <Link href="/task">Tarefas</Link>
       </li>
-      <Link href="/teste">Teste do Peter</Link>
+      <Link href="/teste">Teste</Link>
     </div>
   );
 }
