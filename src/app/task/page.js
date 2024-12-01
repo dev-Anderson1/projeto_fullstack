@@ -6,13 +6,13 @@ export default function Home() {
     <ul>
       <h1>Página de Tarefas do Peter</h1>
       <li>
-        <Link href="/create">Criar Tarefa</Link>
+        <Link href="task/create">Criar Tarefa</Link>
       </li>
       <li>
-        <Link href="/list">Listar Tarefas</Link>
+        <Link href="task/list">Listar Tarefas</Link>
       </li>
       <li>
-        <Link href="/status">Status da Tarefa</Link>
+        <Link href="task/status">Status da Tarefa</Link>
       </li>
       <li>
         <Link href="/delete">Deletar Tarefa</Link>
